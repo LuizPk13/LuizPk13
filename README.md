@@ -1,80 +1,71 @@
 # Olá, eu sou Luiz Fernando 👋
 
-**Desenvolvedor Front-End em formação | HTML, CSS e Git/GitHub**
+**Estudante de Análise de Dados e Programação | Python, SQL, Pandas e Visualização de Dados**
 
-Sou estudante de programação com foco em desenvolvimento Front-End, construindo projetos práticos para fortalecer minha base, melhorar a organização do código e evoluir continuamente como desenvolvedor.
+Sou um entusiasta de dados em transição de carreira, focado em transformar dados brutos em insights acionáveis. Atualmente, estou construindo uma base sólida em programação, manipulação de dados e business intelligence para resolver problemas reais de negócio.
 
 ---
 
 ## 🚀 Sobre mim
 
-Atualmente estou desenvolvendo minhas habilidades com foco em estruturação de páginas, estilização, responsividade e versionamento de código.
-
-Busco transformar aprendizado em prática, criando projetos que mostrem minha evolução de forma clara, organizada e profissional.
+Atualmente, concentro meus estudos na extração, tratamento, análise e visualização de dados. Busco unir a lógica de programação com a visão analítica para criar relatórios eficientes e automatizar processos que facilitem a tomada de decisões.
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+## 💻 Tecnologias e Ferramentas
 
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Flexbox
-- Grid Layout
-- Responsividade
-- VS Code
+- **Linguagem:** Python
+- **Manipulação & Análise:** Pandas, NumPy, Matplotlib
+- **Banco de Dados & Consulta:** SQL
+- **Visualização de Dados & BI:** DataStudio, Power BI, Qlick, Dashboards
+- **Versionamento & Ambiente:** Git, GitHub, VS Code, Ambientes Virtuais (venv)
+- **Automação:** PyAutoGUI.
 
 ---
 
 ## 📚 Atualmente estudando
 
-- HTML
-- CSS
-- Git e GitHub
-- Estruturação de projetos
-- Boas práticas de código
+- Análise de Dados e Business Intelligence (SCTEC / SENAI)
+- Consultas avançadas e modelagem de dados
+- Limpeza e tratamento de dados com Python
+- Boas práticas de código e versionamento
 
 ---
 
 ## 🔭 Próximos passos na minha jornada
 
-- JavaScript
-- Node.js
-- React
-- TypeScript
-- Deploy
+- Estatística Aplicada a Dados
+- Storytelling com Dados
+- Machine Learning básico
+- Portfólio focado em cases de mercado
 
 ---
 
 ## 📌 Objetivo
 
-Meu objetivo é construir uma base sólida no desenvolvimento Front-End e criar projetos cada vez mais profissionais, com visual bem apresentado, código organizado e aplicação prática do que estou aprendendo.
+Meu objetivo é atuar como **Analista de Dados**, utilizando tecnologia e pensamento analítico para estruturar informações, criar painéis intuitivos e gerar valor estratégico para as organizações através dos dados.
 
 ---
 
 ## 📁 O que você vai encontrar aqui
 
-Neste perfil, compartilho projetos desenvolvidos durante meus estudos, exercícios práticos e aplicações criadas para acompanhar minha evolução na programação.
+Neste perfil, compartilho códigos, scripts de automação, estudos de caso e projetos práticos desenvolvidos ao longo da minha formação em Análise de Dados e programação. 
 
-Cada repositório representa uma etapa da minha jornada de aprendizado e do meu desenvolvimento técnico.
+Cada repositório reflete minha evolução técnica e meu compromisso com a qualidade das entregas.
 
 ---
 
-## 🌟 Projetos em destaque
+## 🌟 Áreas de Foco nos Projetos
 
-Aqui você encontrará projetos com foco em:
-
-- Estruturação com HTML
-- Estilização com CSS
-- Layouts com Flexbox e Grid
-- Responsividade
-- Prática com Git e GitHub
-- Evolução contínua no Front-End
+- Limpeza, tratamento e transformação de dados
+- Consultas e extração de bancos de dados
+- Criação de dashboards e visualizações interativas
+- Automação de rotinas com Python
+- Boas práticas de documentação com Git e GitHub
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn:
+- LinkedIn: [Luiz Fernando de Jesus Silva Homem](https://www.linkedin.com/in/luiz-fernando-de-jesus-silva-homem-733619359/)
 - Email: <a>fernando.adr13pk@gmail.com</a>
