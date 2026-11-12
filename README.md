@@ -75,6 +75,6 @@ Também tenho base em **HTML, CSS e JavaScript**, automação com **PyAutoGUI** 
 - **Carreira Tech 2026, trilha de Análise de Dados** · SCTEC / SENAI-SC · *em andamento*
   Python para dados, limpeza e tratamento, análise exploratória, estatística aplicada, BI e data storytelling (300h, aulas ao vivo)
 - **DevClub** · desenvolvimento web com HTML, CSS e JavaScript
-- **Hashtag Treinamentos** · Python para análise de dados e automação
+- **Hashtag Treinamentos** · Jornada Python (8h): análise de dados e automação com Python
 
 **Próximo passo:** SQL avançado e Machine Learning (etapa Aperfeiçoar do SCTEC, 2027).
